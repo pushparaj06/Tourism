@@ -1,11 +1,19 @@
 .card
 {
+	background-image: url("https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg");
 	text-align: center;
-	background-color:lightblue;
+	height: 100vh;
+	background-size: cover;
 }
 .main-heading
 {
 	color: blue;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 36px;
+	text-decoration: underline;
+
 }
 .paragraph
 {
