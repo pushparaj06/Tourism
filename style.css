@@ -20,8 +20,14 @@
 	border-radius: 25px;
 	color:white;
 	border-width: 0px;
-
-
+}
+.btn-green
+{
+	background-color: #8cc63f;
+}
+.btn-orange
+{
+	background-color: #f7931e;
 }
 .main-heading
 {
