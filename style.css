@@ -4,7 +4,7 @@
 	background-size: cover;
 	height: 100vh;
 }
-.card
+.card-tourism
 {
 	text-align: center;
 	background-color:white;
@@ -21,14 +21,7 @@
 	color:white;
 	border-width: 0px;
 }
-.btn-green
-{
-	background-color: #8cc63f;
-}
-.btn-orange
-{
-	background-color: #f7931e;
-}
+
 .main-heading
 {
 	color: #25b1cc;
