@@ -3,6 +3,7 @@
 	background-image: url("https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg");
 	background-size: cover;
 	height: 100vh;
+
 }
 .card-tourism
 {
@@ -11,6 +12,8 @@
 	border-top-right-radius: 25px;
 	border-top-left-radius: 25px;
 	padding: 50px;
+	
+	
 }
 .button
 {
