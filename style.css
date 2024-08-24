@@ -82,3 +82,26 @@
 	height: 100px;
 	width: 80px;
 }
+.view-card
+{
+	background-color: white;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	margin: 15px;
+    padding:15px;
+	
+}
+.view-heading
+{
+	color:#0f0e46;
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 28px;
+}
+.view-card-description
+{
+	color: #6c6b70;
+	font-family: "Roboto";
+	font-size: 13px;
+
+}
