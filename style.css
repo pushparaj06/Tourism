@@ -106,4 +106,8 @@
 	font-size: 13px;
 
 }
+.ordered-list
+{
+	list-style-type:lower-roman;
+}
 
